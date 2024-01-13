@@ -1,0 +1,9 @@
+name: ServerTools
+main: br.com.centralandradina.servertools.ServerTools
+version: 1.0
+api-version: 1.20
+  
+commands:
+  servertools:
+    description: server tools commands
+    permission: "servertools.use"

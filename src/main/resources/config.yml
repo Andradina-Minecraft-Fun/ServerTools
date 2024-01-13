@@ -1,0 +1,8 @@
+spawn:
+  nerfs:
+    IRON_GOLEM:
+      VILLAGE_DEFENSE: 30
+      VILLAGE_INVASION: 30
+    BLAZE:
+      SPAWNER: 50
+    
